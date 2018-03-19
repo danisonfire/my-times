@@ -68,6 +68,15 @@ nav span {
 
 }
 
+
+.content {
+
+  display: flex;
+  width: 100%;
+  top: 100px;
+
+}
+
 .column .large {
 
   width: 630px;
@@ -84,4 +93,11 @@ nav span {
 
   width: 240px;
 
+}
+
+p {
+
+  font-family: Times serif;
+  font-size: 14px;
+  color: black;
 }
